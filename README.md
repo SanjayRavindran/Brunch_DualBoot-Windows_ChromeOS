@@ -20,7 +20,7 @@ When you are make a Dual boot (https://github.com/sebanc/brunch#dual-boot-chrome
 
 ## Video links
 
-
+https://youtu.be/6iWjUPFHOh8
 
 ## Credits
 A Huge thanks to
